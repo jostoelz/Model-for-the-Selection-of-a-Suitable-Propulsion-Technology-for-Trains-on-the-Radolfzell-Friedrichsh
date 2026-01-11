@@ -11,15 +11,23 @@ This research paper investigates the development of a calculation model to ident
 If you find this project useful for your research, please consider citing it:
 
 ```bibtex
-@thesis{Stoelzle2024,
-  author       = {St{\"o}lzle, Johannes},
-  title        = {Model for Selecting Optimal Drive Technologies for Rail Transport: The Radolfzell–Friedrichshafen Line },
-  school       = {Kantonsschule Romanshorn},
-  year         = 2024,
-  type         = {Thesis},
-  url          = {[https://github.com/jostoelz/Model-for-Selecting-Optimal-Drive-Technologies-for-Rail-Transport](https://github.com/jostoelz/Model-for-Selecting-Optimal-Drive-Technologies-for-Rail-Transport)}
+@thesis{Stoelzle2024Model,
+  author      = {St{\"o}lzle, Johannes},
+  title       = {Model for Selecting Optimal Drive Technologies for Rail Transport: The Radolfzell–Friedrichshafen Line},
+  institution = {Kantonsschule Romanshorn},
+  year        = {2024},
+  type        = {Thesis},
+  url         = {https://github.com/jostoelz/Model-for-Selecting-Optimal-Drive-Technologies-for-Rail-Transport}
 }
 ```
+
+## 🧭 Visual Overview
+
+<p align="center">
+  <img src="Result.png" alt="Investment and propulsion costs of drive technologies on the Radolfzell–Friedrichshafen route over 30 years." width="900"/>
+  <br/>
+  <em>Investment and propulsion costs of drive technologies on the Radolfzell–Friedrichshafen route over 30 years.</em>
+</p>
 
 ## 📜 License
 
