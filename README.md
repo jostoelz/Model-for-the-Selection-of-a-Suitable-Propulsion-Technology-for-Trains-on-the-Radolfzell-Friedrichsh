@@ -1,4 +1,4 @@
-# 📘 Model for Selecting Optimal Drive Technologies for Rail Transport: The Radolfzell–Friedrichshafen Line 
+# 📘 Model for the Selection of a Suitable Propulsion Technology for Trains on the Radolfzell-Friedrichshafen Route
 ## 🔗 Online Access
 
 - Thesis, Project Video, Summary, Presentation, Poster: <https://drive.google.com/drive/folders/1uvtkVMngmoj268icvehPI8oGFRSw08Og>
