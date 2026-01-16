@@ -24,9 +24,9 @@ If you find this project useful for your research, please consider citing it:
 ## 🧭 Visual Overview
 
 <p align="center">
-  <img src="Result.png" alt="Investment and propulsion costs of drive technologies on the Radolfzell–Friedrichshafen route over 30 years." width="900"/>
+  <img src="Result.png" alt="Investment and propulsion costs of propulsion technologies on the Radolfzell–Friedrichshafen route over 30 years." width="900"/>
   <br/>
-  <em>Investment and propulsion costs of drive technologies on the Radolfzell–Friedrichshafen route over 30 years.</em>
+  <em>Investment and propulsion costs of propulsion technologies on the Radolfzell–Friedrichshafen route over 30 years.</em>
 </p>
 
 ## 📜 License
